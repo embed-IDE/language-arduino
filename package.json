@@ -2,7 +2,7 @@
   "name": "language-arduino",
   "version": "0.4.3",
   "description": "Atom language support for Arduino",
-  "repository": "https://github.com/szechyjs/language-arduino",
+  "repository": "https://github.com/embed-IDE/language-arduino.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
